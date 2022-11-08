@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aritra</h1>
+<h1 align="center">Hi 👋, I'm Aritra Pal</h1>
 <h3 align="center">An aspiring Android Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritrapal147&label=Profile%20views&color=0e75b6&style=flat" alt="aritrapal147" /> </p>
