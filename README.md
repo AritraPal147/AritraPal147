@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aritra Pal<br>An aspiring Android Developer from India<br><br><br>🔭 I’m currently working on and learning Android Development using Flutter<br>
+Hi 👋, I'm Aritra Pal<br>An aspiring Flutter Developer from India<br><br><br>🔭 I’m currently working on and learning Android Development using Flutter<br>
 
 
 ## 🌐 Socials:
